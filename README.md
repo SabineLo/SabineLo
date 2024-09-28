@@ -1,5 +1,10 @@
 ## Hi there 👋
+My name is Sabine I am a Computer Science student attending the University of California San Diego
 
+## Currently Working On
+
+
+## Tech Stack
 <!--
 **SabineLo/SabineLo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
