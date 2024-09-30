@@ -1,9 +1,9 @@
 ## Hi there 😸
-My name is Sabine I am a Computer Science student currently attending the University of California San Diego
+My name is Sabine, and I’m a Computer Science student at the University of California, San Diego. I’m passionate about learning and actively updating my journey on GitHub as I explore new projects and technologies.
 
 ## Currently Working On 🌱
 - First Unity game a collaboration with cousin
-- Self teaching Web Development
+- Self-teaching Web Development
 - Homework and Leet Code practice
 
 
